@@ -1,0 +1,4 @@
+to compile:
+g++ hw1.cpp -o sort
+to run:
+./sort algoNameFirstLet N fileName 
